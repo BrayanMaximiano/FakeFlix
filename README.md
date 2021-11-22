@@ -32,6 +32,7 @@
 - [x] Filmes Originais Netflix
 - [x] Filmes divididos em categorias: romance, ação, etc
 - [x] Setas de rolagem da lista
+- [x] Preview do título selecionado
 - [x] Recomendações de filmes/séries
 
 ### 💻 Projeto
@@ -39,8 +40,8 @@
 UI Clone do serviço de streaming - Netflix, com o uso da API fornecida pelo The Movie Database. Esse Projeto foi desenvolvido durante a live ministrada pelo professor Boenick Lacerda. 
 
 ### ✅ Demonstração
+<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/featured_movie.png" />
 
-<img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/preview_movie.png" />
 <img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/github/movie_rows.png" />
 
 ### ⚙ Pré-requisitos
@@ -53,7 +54,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/BrayanMaximiano/FakeFlix
+$ git clone https://github.com/BrayanMaximiano/fakeflix
 
 # Instale as dependências
 $ yarn ou npm
@@ -76,7 +77,7 @@ Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
 - react-dom
 - react-icons
 - tmdb
-- 
+
 ### ⚖ Direitos
 
 Todos direitos são reservados a Netflix e ao The Movie Database.

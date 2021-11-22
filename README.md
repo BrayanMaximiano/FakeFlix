@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/netflix-clone/blob/master/public/logo.png" alt="logo" height="75"/>
+  <img src="https://github.com/BrayanMaximiano/FakeFlix/blob/main/src/components/img/logo.png" alt="logo" height="75"/>
 </h4>
 
 <h1 align="center">
@@ -40,9 +40,9 @@
 UI Clone do serviço de streaming - Netflix, com o uso da API fornecida pelo The Movie Database. Esse Projeto foi desenvolvido durante a live ministrada pelo professor Boenick Lacerda. 
 
 ### ✅ Demonstração
-<img src="https://github.com/BrayanMaximiano/FakeFlix/blob/main/public/MovieRow.png" />
-
 <img src="https://github.com/BrayanMaximiano/FakeFlix/blob/main/public/Destaques.png" />
+<hr/>
+<img src="https://github.com/BrayanMaximiano/FakeFlix/blob/main/public/MovieRow.png" />
 
 ### ⚙ Pré-requisitos
 

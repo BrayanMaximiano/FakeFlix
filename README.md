@@ -1,9 +1,9 @@
 <h4 align="center">
-  <img src="https://github.com/BrayanMaximiano/FakeFlix/blob/main/src/components/img/logo.png" alt="logo" height="75"/>
+  <img src="https://github.com/BrayanMaximiano/FakeFlix/blob/main/src/components/img/logo.png" alt="logo" height="80"/>
 </h4>
 
 <h1 align="center">
-    🚀 UI Clone
+    🚀 Netflix UI Clone
 </h1>
 
 <p align="center">Aplicação UI Clone Netflix</p>
@@ -11,8 +11,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/react%20version-16.8.0-informational"/>
   <img src="https://img.shields.io/badge/next%20version-latest-important" />
-  <img src="https://img.shields.io/badge/last%20commit-february-blue" />
-  <img src="https://img.shields.io/badge/license-MIT-success"/>
+  <img src="https://img.shields.io/badge/ultimo%20commiy-novembro%202021-red" />
+  
 </p>
 
 <p align="center">
@@ -32,7 +32,6 @@
 - [x] Filmes Originais Netflix
 - [x] Filmes divididos em categorias: romance, ação, etc
 - [x] Setas de rolagem da lista
-- [x] Preview do título selecionado
 - [x] Recomendações de filmes/séries
 
 ### 💻 Projeto
@@ -77,6 +76,7 @@ Esse projeto foi utilizou das seguintes lib e/ou pré-processadores:
 - react-dom
 - react-icons
 - tmdb
+- material ui
 
 ### ⚖ Direitos
 

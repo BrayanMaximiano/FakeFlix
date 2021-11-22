@@ -9,9 +9,9 @@
 <p align="center">Aplicação UI Clone Netflix</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react%20version-16.8.0-informational"/>
+  <img src="https://img.shields.io/badge/react%20version-16.13.0-blue"/>
   <img src="https://img.shields.io/badge/next%20version-latest-important" />
-  <img src="https://img.shields.io/badge/ultimo%20commiy-novembro%202021-red" />
+  <img src="https://img.shields.io/badge/last%20commit-november%202021-red" />
   
 </p>
 

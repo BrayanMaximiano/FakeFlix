@@ -58,3 +58,12 @@
         opacity: 1;
     }
 }
+
+@media (max-width: 414px) { 
+    .movieRow--item{
+        width: 200px;
+    }
+    .movieRow{
+        margin-top: 20px;
+    }
+}
